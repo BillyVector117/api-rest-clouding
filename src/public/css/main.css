@@ -1,0 +1,8 @@
+.deleteButton {
+  border: 0;
+  background: inherit;
+  float: right;
+}
+.deleteIcon {
+    color: #bd2130;
+}
